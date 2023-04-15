@@ -1,5 +1,3 @@
-package co.edu.uniquindio.marketplace.controllers;
-
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
